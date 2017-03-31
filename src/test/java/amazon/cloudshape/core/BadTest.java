@@ -7,8 +7,8 @@ import static org.junit.Assert.fail;
 
 public class BadTest {
 
-    @Test
+   /* @Test
     public void meant_to_fail() throws Exception {
         fail();
-    }
+    }*/
 }
